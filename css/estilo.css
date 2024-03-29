@@ -1,0 +1,61 @@
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.navbar navbar-dark bg-dark fixed-top{
+    border-radius: 15px;
+}
+  
+.row
+{
+    height: 50%;
+    width: 95%;
+    margin: auto;
+}
+body{
+    background-color:rgb(215, 171, 206);
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
+.titulo{
+    background-color: palevioletred;
+    margin: 10px;
+    border-radius: 10px;
+}
+#d
+{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+#carouselExampleControls{
+    height: 50%;
+    width: 75%;
+    left: 10%;
+}
+.ro{
+    background-color: rgb(215, 171, 206);
+    margin: 60px;
+}
+h3{
+    color: rgba(149, 0, 151, 0.976);
+    text-align: center;
+}
+p{
+    color: black;
+    margin: 10px;
+}
+h5{
+    color: rgb(255, 0, 234);
+}
+h1{
+    color: rgb(255, 0, 234);
+}
